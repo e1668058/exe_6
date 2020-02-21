@@ -25,7 +25,7 @@
 			<!-- <a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentynineteen' ) ); ?>" class="imprint"> -->
 				<?php
 				/* translators: %s: WordPress. */
-				printf( __( '| https://localhost/2020-veille/wordpress/', 'twentynineteen' ), 'WordPress' );
+				printf( __( '| Bonjour ceci a été modifié', 'twentynineteen' ), 'WordPress' );
 				?>
 			</a>
 			<?php

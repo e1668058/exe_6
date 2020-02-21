@@ -35,3 +35,10 @@ body {
     height: 600px;
 }
 
+.classPourGutenberg1 {
+    background-color: blue;
+}
+
+.classPourGutenberg2 {
+    font-size: 20px;
+}
